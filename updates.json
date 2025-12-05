@@ -1,0 +1,56 @@
+[
+    {
+        "Version": 0.98,
+        "ExtractTarget": "binary_base.7z",
+        "DownloadLinks": [
+            "https://store8.gofile.io/download/direct/5065878c-ab49-4db8-a1f2-a47a5e29ea66/binary_base.7z"
+        ],
+        "FilesToDelete": [
+        ]
+    },
+    {
+        "Version": 0.991,
+        "ExtractTarget": "csgo_base_fix.7z",
+        "DownloadLinks": [
+            "https://store8.gofile.io/download/direct/7487d54c-2bc1-4d24-b68c-7125d7df3954/csgo_base_fix.7z"
+        ],
+        "FilesToDelete": [
+        ]
+    },
+    {
+        "Version": 1.01,
+        "ExtractTarget": "1.01.7z",
+        "DownloadLinks": [
+            "https://store2.gofile.io/download/direct/3586f2f3-c6a4-480f-a197-24b81ced4fbf/1.01.7z"
+        ],
+        "FilesToDelete": [
+        ]
+    },
+    {
+        "Version": 1.2,
+        "ExtractTarget": "1.1.7z",
+        "DownloadLinks": [
+            "https://store-eu-par-3.gofile.io/download/direct/4d7420ae-4561-471c-ab27-b90ea69b6670/1.1.7z"
+        ],
+        "FilesToDelete": [
+        ]
+    },
+    {
+        "Version": 1.4,
+        "ExtractTarget": "1.1.2.7z",
+        "DownloadLinks": [
+            "https://cold-eu-agl-1.gofile.io/download/direct/560ac637-aac5-4c9f-b315-21cb547d8bce/1.1.2.7z"
+        ],
+        "FilesToDelete": [
+        ]
+    },
+    {
+        "Version": 1.5,
+        "ExtractTarget": "Update_1.1.3.7z",
+        "DownloadLinks": [
+            "https://store8.gofile.io/download/direct/011fabbf-029d-45af-b58f-69018a289dcb/Update_1.1.3.7z"
+        ],
+        "FilesToDelete": [
+        ]
+    }
+]
