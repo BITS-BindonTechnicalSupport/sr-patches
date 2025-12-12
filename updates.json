@@ -52,5 +52,14 @@
         ],
         "FilesToDelete": [
         ]
+    },
+    {
+        "Version": 1.6,
+        "ExtractTarget": "Update_1.2.7z",
+        "DownloadLinks": [
+            "https://cold3.gofile.io/download/direct/d89bc425-775f-4193-a635-1115c61d8bd3/Update_1.2.7z"
+        ],
+        "FilesToDelete": [
+        ]
     }
 ]
