@@ -1,3 +1,7 @@
+[1.1.7] - 2025-12-11
+
+Normalized CSGO pathing so the gameinfo.txt doesn't end up with /csgo/csgo by accident.
+
 [1.1.6] - 2025-12-09
 
 - Improved Handling of gameinfo.txt (to avoid issues when people download the repack)
