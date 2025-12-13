@@ -1,3 +1,15 @@
+[1.2] - 2025-12-13
+
+- Changed update logic to allow updating if the download server can be contacted with the play button override enabled
+- Changed update logic to be more reliable with multi-patch updates
+- Added progress indicator for launcher updates (This is untested, but it compiled so fuck it we ball)
+- Streamlined the update logic to be generally more reliable; this includes not leaving all the update logic/version checking to a single threaded function.
+- Patch 1.1.8 included new update notifications for install/update states, this should also be more reliable (via the Eric/Scoobert images)
+- Added additional protections for install/repair logic so that you won't wipe your suprem files because of my mistakes.
+- Added additional checks for update sources so that repair/install/update functions shouldn't fail (or be permissive if the update sources are unreachable)
+- Removed Sanity
+- Added Herobrine (He said sorry for the patch v0 update issues)
+
 [1.1.8] - 2025-12-12
 
 - Added Eric
