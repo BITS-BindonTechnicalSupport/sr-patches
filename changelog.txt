@@ -1,3 +1,7 @@
+[1.2.1] - 2025-12-19
+
+- Added warning banner for users on the Steam Client Beta (Since legacy won't launch when you use the client beta)
+
 [1.2.0] - 2025-12-13
 
 - Changed update logic to allow updating if the download server can be contacted with the play button override enabled
