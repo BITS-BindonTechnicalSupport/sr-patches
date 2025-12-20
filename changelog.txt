@@ -1,3 +1,9 @@
+[1.2.5]
+
+- Removed Downgrading the steam client. (This issue is now fixed with removing the steam crash handler for the latest update)
+- Removed Herobrine
+- Added Azzies infinite wisdom.
+
 [1.2.4]
 
 - Added automatic update suppression for steam updates. Please read the prompts during the downgrade process.
