@@ -1,3 +1,7 @@
+[1.2.4]
+
+- Added automatic update suppression for steam updates. Please read the prompts during the downgrade process.
+
 [1.2.3]
 
 - Added Steam Downgrade button (Valve PLEASE stop making me do things)
