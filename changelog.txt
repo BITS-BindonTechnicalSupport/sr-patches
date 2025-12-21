@@ -1,3 +1,7 @@
+[1.3.0] - 2025-12-21
+
+- Added additional check for if legacy needs to be launched once (The launcher has to check for csgo somehow, it won't work if you don't do the basic setup)
+
 [1.2.9] - 2025-12-21
 
 - Fixed CSGO Detection, less reliant on Steam Detection (I don't even know why I did that in the first place)
