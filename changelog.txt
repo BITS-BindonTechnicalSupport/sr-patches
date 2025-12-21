@@ -1,3 +1,8 @@
+[1.2.9] - 2025-12-21
+
+- Fixed CSGO Detection, less reliant on Steam Detection (I don't even know why I did that in the first place)
+- Manually Selecting your Counter-Strike Global Offensive Directory (if valid) should now allow you to play regardless of Steam install location -
+
 [1.2.7/1.2.8] - Same Day
 
 - Fixed dodgy gameinfo.txt update. Forgot to enforce edit only so it decided to add whatever wherever it wanted. For sanity sake I hope this fixed it.
