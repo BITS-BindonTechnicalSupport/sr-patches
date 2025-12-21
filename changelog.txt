@@ -1,3 +1,15 @@
+[1.2.6] - 2025-12-20
+
+- Reworked Repair logic (so it doesn't infinitely spiral) (The End is Never The End is Never The End is Never The End is Never )
+- Reworked Gameinfo.txt logic so that it *should* replace it with the correct directory path now
+- Reworked the patch manager (so it shouldn't hang indefinitely on slow downloads)
+- Improved Steam detection (for those of you with half installs lurking on your PC)
+- Improved Legacy Detection (it was working fine on my side but everyone's setup is different)
+- Split the updater + Shrunk it (for those of you who use my bloated one still, sorry.)
+- Should be more Antivirus Friendly (Because it used to spam the hell out of search requests looking for CSGO/Steam) 
+- Herobrine broke in, I didn't add him back but he's here... Somehow
+- Added Fish
+
 [1.2.5]
 
 - Removed Downgrading the steam client. (This issue is now fixed with removing the steam crash handler for the latest update)
