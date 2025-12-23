@@ -1,6 +1,13 @@
 {
-  "DownloadSources": {
-    "BuzzHeavier": "https://buzzheavier.com/18qaaqsb3tm5",
-    "GoFile": "https://store-na-phx-1.gofile.io/download/direct/dcfb8e08-24cc-4937-b3ab-f3be29fc7cdc/Repack1.6.7z"
-  }
+  "Version": 1.6,
+  "Sources": [
+    {
+      "Name": "BuzzHeavier",
+      "Url": "https://buzzheavier.com/18qaaqsb3tm5"
+    },
+    {
+      "Name": "GoFile",
+      "Url": "https://store-na-phx-1.gofile.io/download/direct/dcfb8e08-24cc-4937-b3ab-f3be29fc7cdc/Repack1.6.7z"
+    }
+  ]
 }
