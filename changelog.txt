@@ -1,3 +1,25 @@
+[1.3.1] - 2025-12-26
+
+Christmas Update - A little too late to be festive with the launcher so this will have to do.
+
+- Reworked the play button override into "Trust Mode", this will force the launcher to trust any paths you give it even if they're wrong.
+** As a Side Effect, because the play button also overwrites your gameinfo.txt with the csgo path set, if it's incorrect then you will experience the missing background error **
+
+- Merged CSGO path detection logic (Not that you'd need to know that)
+- Merged Steam Detection Logic (Also something you don't see, just like the csgo logic)
+- This update is kind of a bit of a Logic and behind the scenes fixes. I wanted to very much rewrite the entire thing but I do not hold the sanity needed for that.
+
+- Trying to install too quickly will cause the launcher to pause and say the update server isn't available. it is. it's lying to you. No I don't know how to fix it but if you wait 10 seconds then it'll work.
+- Alternatively, if after 2-3 minutes it says that updates/install still aren't available, it's not lying to you and I have no idea why you can't fetch the update/install info.
+
+- If I put all of the changes I made into this changelog, I would go clinically insane. Mostly because 90% of the changes are all internal logic and none of the people using this launcher has ever seen it.
+- Removed even more sanity (Didn't know it was possible but I did it)
+- Kicked Herobrine out (wasn't paying rent)
+
+- Added a troubleshooting section for the launcher.
+
+- Also Hi, if you read this changelog I appreciate you. Watch Silo and Severance (the AppleTV shows), they're pretty neat. Definitely worth the watch.
+
 [1.3.0] - 2025-12-21
 
 - Added additional check for if legacy needs to be launched once (The launcher has to check for csgo somehow, it won't work if you don't do the basic setup)
