@@ -70,5 +70,14 @@
         ],
         "FilesToDelete": [
         ]
+    },
+	    {
+        "Version": 1.8,
+        "ExtractTarget": "Update_1.8.7z",
+        "DownloadLinks": [
+            "https://cold3.gofile.io/download/direct/4724d31c-bde9-459f-b3f0-501f48a6299b/1.8.7z"
+        ],
+        "FilesToDelete": [
+        ]
     }
 ]
