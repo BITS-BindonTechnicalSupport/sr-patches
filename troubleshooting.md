@@ -13,6 +13,16 @@
 > - The repack is being extracted to the wrong location
 
 ------------------
+ Antivirus Shenanigans
+------------------
+
+- To be clear, I am simply too poor / not willing to pay over $180 to sign the launcher and the updater.
+- The code for the updater is posted in the bugs channel for the launcher.
+
+- Open Run (Win + R) and type %localappdata%/SupremacyRenewedLauncher to get your local specific path
+- Add this entire directory as an exception in your antivirus software and it should stop complaining.
+
+------------------
  Trust Mode
 ------------------
 Trust Mode disables strict validation.
