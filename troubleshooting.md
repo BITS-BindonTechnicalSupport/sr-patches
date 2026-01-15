@@ -1,4 +1,12 @@
 ------------------
+ DISCLAIMER
+------------------
+
+If you managed to kill the download mid-install, the update failed or something else; please please please try to delete your supremacyrenewed folder and install, run a repair or use the repack download button.
+
+I have tried to fix this issue many times, but I don't have a good way to detect a half installed fileset because it varies per person. For repack instructions, look below this.
+
+------------------
  Repack Guide
 ------------------
 
