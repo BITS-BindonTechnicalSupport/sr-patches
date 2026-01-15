@@ -1,3 +1,8 @@
+[1.3.4] - 2026-01-15
+
+- Forgot to add a check to cancel auto launch in case of an update
+- Added Herobrine
+
 [1.3.3] - 2026-01-14
 
 Happy New Year (even if i'm a bit late)
