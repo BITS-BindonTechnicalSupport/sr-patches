@@ -2,6 +2,11 @@
  DISCLAIMER
 ------------------
 
+The Laucher is not responsible for in-game server connections, it only handles connecting to the Supremacy Network, if you are experiencing being unable to connect to the game servers; check your network configuration.
+
+If you live in Russia or Russian Controlled Territories, you may benefit from using utilities that "bypass" Deep Packet Inspection. (Such as: GVCoder09/NoDPI, ValdikSS/GoodbyeDPI, SadeghHayeri/GreenTunnel or krlvm/PowerTunnel)
+(I have not tested any of these utilities nor do I endorse them, research and test at your own risk)
+
 If you managed to kill the download mid-install, the update failed or something else; please please please try to delete your supremacyrenewed folder and install, run a repair or use the repack download button.
 
 I have tried to fix this issue many times, but I don't have a good way to detect a half installed fileset because it varies per person. For repack instructions, look below this.
