@@ -4,7 +4,7 @@
 
 The Laucher is not responsible for in-game server connections, it only handles connecting to the Supremacy Network, if you are experiencing being unable to connect to the game servers; check your network configuration.
 
-The Launcher is also not friendly towards non-english windows installations, this is due to personal lazyness.
+The Launcher is also not friendly towards non-english windows installations, this is due to personal lazyness. Please use Trust mode if auto detection does not work properly in this case.
 
 Do Not uninstall csgo_legacy by setting the cs2 beta back to "none"; doing so will break supremacy as those files are needed to play.
 
