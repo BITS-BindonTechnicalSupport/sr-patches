@@ -2,11 +2,11 @@
   "Version": 1.8,
   "Sources": [
     {
-      "Name": "BuzzHeavier",
+      "Name": "(Source 1) BuzzHeavier",
       "Url": "https://buzzheavier.com/1db12mnlikbg"
     },
     {
-      "Name": "GoFile",
+      "Name": "(Source 2) GoFile",
       "Url": "https://store9.gofile.io/download/direct/9d930f65-96f5-4ba4-acc3-76f62bbd0e83/Repack1.8.7z"
     }
   ]
