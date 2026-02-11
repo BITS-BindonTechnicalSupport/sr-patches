@@ -1,5 +1,5 @@
 ------------------
- DISCLAIMER
+General Disclaimers - Warnings
 ------------------
 
 The Laucher is not responsible for in-game server connections, it only handles connecting to the Supremacy Network, if you are experiencing being unable to connect to the game servers; check your network configuration.
@@ -7,6 +7,8 @@ The Laucher is not responsible for in-game server connections, it only handles c
 The Launcher is also not friendly towards non-english windows installations, this is due to personal lazyness. Please use Trust mode if auto detection does not work properly in this case.
 
 Do Not uninstall csgo_legacy by setting the cs2 beta back to "none"; doing so will break supremacy as those files are needed to play.
+
+Please make sure you have enough disk space to install the client files, if you do not then the launcher will freak out and try to re-download / extract over and over again forever.
 
 If you live in Russia or Russian Controlled Territories, you may benefit from using utilities that "bypass" Deep Packet Inspection. (Such as: GVCoder09/NoDPI, ValdikSS/GoodbyeDPI, SadeghHayeri/GreenTunnel or krlvm/PowerTunnel)
 (I have not tested any of these utilities nor do I endorse them, research and test at your own risk)
