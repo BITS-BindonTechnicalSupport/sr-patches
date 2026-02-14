@@ -1,3 +1,10 @@
+[1.3.5] - 2026-02-13
+
+- Added the ability to choose where Supremacy specific files exist. I didn't test it much so don't get mad if it breaks. (The folder picker is kinda buggy tho)
+- Added disk space check for install/update/repair actions (With Wine/Proton detection so it shouldn't just yell at the linux users if they somehow got it to work)
+- Removed the Alternate GC Status / Options as the Alternate GC is being phased out and will soon not exist.
+- I don't know what else to write here, usually there's a meme patch note but just pretend that this is interesting or whatever.
+
 [1.3.4] - 2026-01-15
 
 - Forgot to add a check to cancel auto launch in case of an update
