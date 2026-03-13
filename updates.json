@@ -70,5 +70,14 @@
         ],
         "FilesToDelete": [
         ]
+    },
+    {
+        "Version": 1.9,
+        "ExtractTarget": "Update_1.9.7z",
+        "DownloadLinks": [
+            "https://store-eu-par-6.gofile.io/download/direct/b3b8e74b-345a-4af8-9ab1-6eb505a9221b/Update_1.9.7z"
+        ],
+        "FilesToDelete": [
+        ]
     }
 ]
