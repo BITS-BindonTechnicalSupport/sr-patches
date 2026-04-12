@@ -88,5 +88,14 @@
         ],
         "FilesToDelete": [
         ]
+    },
+    {
+        "Version": 2.0,
+        "ExtractTarget": "last_update.7z",
+        "DownloadLinks": [
+            "https://cold-eu-agl-1.gofile.io/download/direct/724509f2-2f06-4aed-ae58-f75cb9434db7/last_update.7z"
+        ],
+        "FilesToDelete": [
+        ]
     }
 ]
